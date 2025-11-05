@@ -412,6 +412,11 @@
   .gap-y-10 {
     row-gap: calc(var(--spacing) * 10);
   }
+  .truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
   .overflow-auto {
     overflow: auto;
   }
@@ -1481,6 +1486,29 @@ body {
       padding-inline: calc(var(--spacing) * 2);
       padding-block: calc(var(--spacing) * 1);
       color: var(--muted);
+    }
+  }
+}
+.sharebuttons {
+  margin-block: calc(var(--spacing) * 8);
+  &, ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    a {
+      display: block;
+      padding-inline: calc(var(--spacing) * 3);
+      padding-block: calc(var(--spacing) * 2);
+      opacity: 80%;
+      &:hover {
+        @media (hover: hover) {
+          opacity: 100%;
+        }
+      }
+    }
+    svg {
+      width: calc(var(--spacing) * 6);
+      height: calc(var(--spacing) * 6);
     }
   }
 }
