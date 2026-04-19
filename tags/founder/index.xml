@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Founder on</title><link>https://jfmelo.com/tags/founder/</link><description>Recent content in Founder on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 02 Apr 2026 14:07:11 +0200</lastBuildDate><atom:link href="https://jfmelo.com/tags/founder/index.xml" rel="self" type="application/rss+xml"/><item><title>Essential Tech Startup Terms</title><link>https://jfmelo.com/glossaries/essential-tech-startup-terms/</link><pubDate>Thu, 02 Apr 2026 14:07:11 +0200</pubDate><guid>https://jfmelo.com/glossaries/essential-tech-startup-terms/</guid><description>If you are exploring the world of startups, these are the 33 key terms every entrepreneur, investor, or team member should understand.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Founder on </title>
+    <link>http://localhost:1313/tags/founder/</link>
+    <description>Recent content in Founder on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Apr 2026 14:07:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/founder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essential Tech Startup Terms</title>
+      <link>http://localhost:1313/glossaries/essential-tech-startup-terms/</link>
+      <pubDate>Thu, 02 Apr 2026 14:07:11 +0200</pubDate>
+      <guid>http://localhost:1313/glossaries/essential-tech-startup-terms/</guid>
+      <description>If you are exploring the world of startups, these are the 33 key terms every entrepreneur, investor, or team member should understand.</description>
+    </item>
+  </channel>
+</rss>
