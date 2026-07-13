@@ -1,0 +1,24 @@
+# jfmelo.com
+> Technical tutorials and open-source projects by José Melo (SRE & aspiring CTO).
+
+## Author 
+- Name: José Melo
+- GitHub: https://github.com/jfmelo
+- Instagram: https://www.instagram.com/0xjfmelo
+- Threads: https://www.threads.com/@0xjfmelo
+- Tiktok: https://www.tiktok.com/@jfmelo_
+- Twitch: https://www.twitch.tv/jfmelo__
+- Youtube: https://www.youtube.com/@jfmelo
+- X (former Twitter): https://x.com/jfmelo_
+
+## Tutorials
+
+- [6 Steps to Create and Publish a Modern Javascript and Typescript Library in 2024](https://jfmelo.com/tutorials/6-steps-to-create-and-publish-a-modern-javascript-and-typescript-library-in-2024/index.md): All you need to create and share your Javascript or Typescript library with the Open-source community.
+- [7 Ways You Can Contribute to Open-source Projects](https://jfmelo.com/tutorials/7-ways-you-can-contribute-to-open-source-projects/index.md): There are several ways to contribute to open-source projects, even if you are not a developer.
+
+## Open source
+
+- [k9s](https://jfmelo.com/open-source/k9s/index.md): A powerful terminal UI for Kubernetes that makes managing clusters feel fast, intuitive, and actually enjoyable.
+- [n8n](https://jfmelo.com/open-source/n8n/index.md): The best visual workflow automation editor that connects to almost everything.
+- [sqlmap](https://jfmelo.com/open-source/sqlmap/index.md): Automatic SQL injection and database takeover tool.
+- [PostgREST](https://jfmelo.com/open-source/postgrest/index.md): Automagically generate a production-ready REST APIs from any PostgreSQL database.
