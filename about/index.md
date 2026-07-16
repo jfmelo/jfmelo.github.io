@@ -97,6 +97,6 @@ Let's connect on [LinkedIn], check out my code on [GitHub], or random thoughts
 on [X] (formerly Twitter).
 
 [X]: https://x.com/jfmelo_
-[LinkedIn]: https://linkedin.com/in/YOUR_LINKEDIN_URL
+[LinkedIn]: https://www.linkedin.com/in/jfmelo/
 [GitHub]: https://github.com/jfmelo
 
