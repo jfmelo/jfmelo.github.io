@@ -90,6 +90,8 @@ smaller models can handle to save companies money on LLM costs. I test
 everything as a hobby, and when a tool proves its value—whether it's a new
 DevOps framework or an AI workflow—I bring it to the corporate level.
 
+---
+
 If you want to connect about scaling systems, engineering leadership, or
 building products that matter, let’s talk.
 
